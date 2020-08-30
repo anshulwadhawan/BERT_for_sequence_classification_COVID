@@ -4,4 +4,6 @@ Solution repository for WNUT-2020 Shared Task 2 : Identification of informative 
 
 Team Name : Phonemer
 
-Private Leaderboard Rank : 6
+Username : anshul.wadhawan
+
+Private Leaderboard Rank : 6 (F1-score = 0.9037)
