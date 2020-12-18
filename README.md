@@ -8,7 +8,7 @@ Team Name : Phonemer
 
 Username : anshul.wadhawan
 
-Private Leaderboard Global Rank : 6 (F1-score = 0.9037)
+Private Leaderboard Global Rank : 6 (F1-score = 0.9036)
 
 Task : Classification of COVID-19 related tweets into informative/uninformative given training data of 8000 tweets.
 
