@@ -1,5 +1,3 @@
-# BERT for Sequence Classification 
-
 Solution repository for WNUT-2020 Shared Task 2 : Identification of informative COVID-19 English Tweets
 
 Link to paper : https://www.aclweb.org/anthology/2020.wnut-1.47/
